@@ -1,11 +1,11 @@
 {
-    "title": "Name of the theme",
-    "name": "github-<owner>-<repo>",
+    "title": "Just it",
+    "name": "github-Stetcha-justitthetheme",
     "description": "A sample dark theme.",
     "version": "0.0.1",
     "license": "MIT",
-    "author": "your name (https://github.com/<your github id>)",
-    "homepage": "<project web page url or this github repo url if no website available>",
+    "author": "Stetcha https://github.com/Stetcha/",
+    "homepage": "https://github.com/Stetcha/justitthetheme",
     "engines": {
         "brackets": ">=2.0.0"
     },
